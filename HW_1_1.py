@@ -1,0 +1,6 @@
+a = float (input ( 'input a \n'))
+b = float (input ( 'input b \n'))
+print (a + b)
+print (a - b)
+print (a * b)
+print (a / b)
